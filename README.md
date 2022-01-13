@@ -11,9 +11,9 @@
 
   
     
-<img width="50%"  src="https://github-readme-stats.vercel.app/api?username=carlosjw&theme=radical&hide=prs,issues,contribs&show_icons=true" />
+<img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Carlosjw&theme=radical&hide=prs,issues,contribs&show_icons=true" />
 
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosjw&layout=compact&theme=radical" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carlosjw&layout=compact&theme=radical" />
    
 
    
