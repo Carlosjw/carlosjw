@@ -1,7 +1,7 @@
 ## Hey, I'm Carlos! 👨‍💻     
 
 
- - 👨‍💻 I am currently working at SEASPAC/Prefeitura_De_Marabá_PA, as a Software Analyst and Developer  
+ - 👨‍💻 I am currently working at SEASPAC/Prefeitura_De_Marabá_PA, as a Administrator, but I want to explore new horizons.
  - 🤓 I'm currently learning a little bit of everything, main JavaScript stack's. 
   - 👯 Looking to collaborate with open source projects, and ERP solutions 
 
